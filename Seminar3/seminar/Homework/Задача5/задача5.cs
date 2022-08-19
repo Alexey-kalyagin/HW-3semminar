@@ -4,7 +4,7 @@
           
          
           
-          string numberN = Console.ReadLine();
+          string number = Console.ReadLine();
                     
-          Console.WriteLine(numberN[0]*numberN[0]*numberN[0]);
+          Console.WriteLine(number[0]*number[0]*number[0]);
           
