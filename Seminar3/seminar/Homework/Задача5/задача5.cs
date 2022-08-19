@@ -3,29 +3,13 @@
 
 Console.WriteLine("Введите число");
 
-int numberN = Convert.ToInt32(Console.ReadLine());
-
-int[] arr = new int [numberN];
-
-int g = 1;
+int number1 = Convert.ToInt32(Console.ReadLine());
 
 
-void PrintArray(int[] array)
-{
-    int count = array.Length;
-
-    for(int i = 0; i < count; i++)
-    {   
-        int [] arr = {i};              
-        
-        for(int j = 0; j < count; g = g++)
-        {
-          j = numberN - (numberN - g);  
-          array[i] = j;
-        }
+for(int number2 = 1; number2 <= number1; number2++)
+    {
     
-    Console.WriteLine(array[3]);
+    Console.Write(Math.Pow (number2,3) + " ");
     } 
+Console.WriteLine(" ");
 
-}
-PrintArray(arr);
