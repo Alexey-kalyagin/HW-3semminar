@@ -8,8 +8,8 @@
 using System;
 
 double [,] array = {{1,4,7,2},
-                 {5,9,2,3},
-                 {8,4,2,4}};
+                    {5,9,2,3},
+                    {8,4,2,4}};
 
 void PrintArray(double [,] array)
 {
