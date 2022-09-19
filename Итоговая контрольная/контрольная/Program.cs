@@ -4,19 +4,23 @@
 // пользоваться коллекциями, лучше обойтись исключительно массивами.
 // примеры: ["hello", "2", "world", ":-)"] -> ["2",":-)"] 
 
-Console.WriteLine ("Введите массив из строк через пробел");
+using System;
 
-string text = Console.ReadLine();
+// void Main (string [] args)
+//{
+    Console.WriteLine ("Введите массив из строк через пробел");
+    string text = Console.ReadLine();
 
-int n = text.Length;
+    string [] array = text.Split(' ');
 
-if (n<4)
-{
-    
-    Console.WriteLine(text);
-    
-}
-else 
-{
-    Console.WriteLine ("Массив имеет больше трёх элементов");
-}
+    Console.Write("[ ");
+
+    for (int i=0; i<array.Length-1; i++)
+    {
+        Console.Write(array[i] + ", ");;
+    }  
+    Console.Write(array[array.Length-1] + "]");
+//}
+
+
+
