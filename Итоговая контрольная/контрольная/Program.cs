@@ -6,21 +6,29 @@
 
 using System;
 
-// void Main (string [] args)
-//{
+
     Console.WriteLine ("Введите массив из строк через пробел");
     string text = Console.ReadLine();
-
     string [] array = text.Split(' ');
+   
+    Console.Write("[");
+    for (int i=0; i<array.Length; i++)
+    { 
+        string text2 = array[i];
+        
+        if (text2.Length < 4)
+        {
+            for (int j = 0; j < text2.Length-1; j++)
+            {
+                
+                Console.Write(text2[j]);
+            }
+            Console.Write(text2[text2.Length-1] + ", "); 
+        }
+        
+    } 
+    Console.Write("]"); 
+    
+                
 
-    Console.Write("[ ");
-
-    for (int i=0; i<array.Length-1; i++)
-    {
-        Console.Write(array[i] + ", ");;
-    }  
-    Console.Write(array[array.Length-1] + "]");
-//}
-
-
-
+ 
