@@ -1,0 +1,15 @@
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/obj/Debug/net6.0/sort.csproj.AssemblyReference.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/obj/Debug/net6.0/sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/obj/Debug/net6.0/sort.AssemblyInfoInputs.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/obj/Debug/net6.0/sort.AssemblyInfo.cs
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/obj/Debug/net6.0/sort.csproj.CoreCompileInputs.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/bin/Debug/net6.0/sort
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/bin/Debug/net6.0/sort.deps.json
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/bin/Debug/net6.0/sort.runtimeconfig.json
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/bin/Debug/net6.0/sort.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/bin/Debug/net6.0/ref/sort.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/bin/Debug/net6.0/sort.pdb
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/obj/Debug/net6.0/sort.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/obj/Debug/net6.0/ref/sort.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/obj/Debug/net6.0/sort.pdb
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/sort/obj/Debug/net6.0/sort.genruntimeconfig.cache

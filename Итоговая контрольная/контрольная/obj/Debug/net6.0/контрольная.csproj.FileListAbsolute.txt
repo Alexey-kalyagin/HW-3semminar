@@ -1,0 +1,15 @@
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/bin/Debug/net6.0/контрольная
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/bin/Debug/net6.0/контрольная.deps.json
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/bin/Debug/net6.0/контрольная.runtimeconfig.json
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/bin/Debug/net6.0/контрольная.dll
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/bin/Debug/net6.0/ref/контрольная.dll
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/bin/Debug/net6.0/контрольная.pdb
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/obj/Debug/net6.0/контрольная.csproj.AssemblyReference.cache
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/obj/Debug/net6.0/контрольная.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/obj/Debug/net6.0/контрольная.AssemblyInfoInputs.cache
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/obj/Debug/net6.0/контрольная.AssemblyInfo.cs
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/obj/Debug/net6.0/контрольная.csproj.CoreCompileInputs.cache
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/obj/Debug/net6.0/контрольная.dll
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/obj/Debug/net6.0/ref/контрольная.dll
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/obj/Debug/net6.0/контрольная.pdb
+/home/alexey/Рабочий стол/git/Итоговая контрольная/контрольная/obj/Debug/net6.0/контрольная.genruntimeconfig.cache

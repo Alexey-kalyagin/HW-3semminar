@@ -1,0 +1,15 @@
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/obj/Debug/net6.0/Labirint.csproj.AssemblyReference.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/obj/Debug/net6.0/Labirint.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/obj/Debug/net6.0/Labirint.AssemblyInfoInputs.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/obj/Debug/net6.0/Labirint.AssemblyInfo.cs
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/obj/Debug/net6.0/Labirint.csproj.CoreCompileInputs.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/bin/Debug/net6.0/Labirint
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/bin/Debug/net6.0/Labirint.deps.json
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/bin/Debug/net6.0/Labirint.runtimeconfig.json
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/bin/Debug/net6.0/Labirint.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/bin/Debug/net6.0/ref/Labirint.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/bin/Debug/net6.0/Labirint.pdb
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/obj/Debug/net6.0/Labirint.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/obj/Debug/net6.0/ref/Labirint.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/obj/Debug/net6.0/Labirint.pdb
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/Labirint/obj/Debug/net6.0/Labirint.genruntimeconfig.cache

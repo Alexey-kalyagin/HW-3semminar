@@ -1,0 +1,15 @@
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/bin/Debug/net6.0/чурновик
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/bin/Debug/net6.0/чурновик.deps.json
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/bin/Debug/net6.0/чурновик.runtimeconfig.json
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/bin/Debug/net6.0/чурновик.dll
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/bin/Debug/net6.0/ref/чурновик.dll
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/bin/Debug/net6.0/чурновик.pdb
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/obj/Debug/net6.0/чурновик.csproj.AssemblyReference.cache
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/obj/Debug/net6.0/чурновик.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/obj/Debug/net6.0/чурновик.AssemblyInfoInputs.cache
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/obj/Debug/net6.0/чурновик.AssemblyInfo.cs
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/obj/Debug/net6.0/чурновик.csproj.CoreCompileInputs.cache
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/obj/Debug/net6.0/чурновик.dll
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/obj/Debug/net6.0/ref/чурновик.dll
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/obj/Debug/net6.0/чурновик.pdb
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/чурновик/obj/Debug/net6.0/чурновик.genruntimeconfig.cache

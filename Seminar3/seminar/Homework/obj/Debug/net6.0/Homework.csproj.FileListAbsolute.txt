@@ -1,0 +1,15 @@
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/bin/Debug/net6.0/Homework
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/bin/Debug/net6.0/Homework.deps.json
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/bin/Debug/net6.0/Homework.runtimeconfig.json
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/bin/Debug/net6.0/Homework.dll
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/bin/Debug/net6.0/ref/Homework.dll
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/bin/Debug/net6.0/Homework.pdb
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/obj/Debug/net6.0/Homework.csproj.AssemblyReference.cache
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/obj/Debug/net6.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/obj/Debug/net6.0/Homework.AssemblyInfoInputs.cache
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/obj/Debug/net6.0/Homework.AssemblyInfo.cs
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/obj/Debug/net6.0/Homework.csproj.CoreCompileInputs.cache
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/obj/Debug/net6.0/Homework.dll
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/obj/Debug/net6.0/ref/Homework.dll
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/obj/Debug/net6.0/Homework.pdb
+/home/alexey/Рабочий стол/git/Seminar3/seminar/Homework/obj/Debug/net6.0/Homework.genruntimeconfig.cache

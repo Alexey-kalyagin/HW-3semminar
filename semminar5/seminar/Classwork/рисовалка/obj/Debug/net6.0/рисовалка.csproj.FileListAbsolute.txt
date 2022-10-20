@@ -1,0 +1,5 @@
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/рисовалка/obj/Debug/net6.0/рисовалка.csproj.AssemblyReference.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/рисовалка/obj/Debug/net6.0/рисовалка.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/рисовалка/obj/Debug/net6.0/рисовалка.AssemblyInfoInputs.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/рисовалка/obj/Debug/net6.0/рисовалка.AssemblyInfo.cs
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/рисовалка/obj/Debug/net6.0/рисовалка.csproj.CoreCompileInputs.cache

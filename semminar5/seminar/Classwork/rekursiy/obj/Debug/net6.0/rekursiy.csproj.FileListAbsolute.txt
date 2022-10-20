@@ -1,0 +1,15 @@
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/bin/Debug/net6.0/rekursiy
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/bin/Debug/net6.0/rekursiy.deps.json
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/bin/Debug/net6.0/rekursiy.runtimeconfig.json
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/bin/Debug/net6.0/rekursiy.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/bin/Debug/net6.0/ref/rekursiy.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/bin/Debug/net6.0/rekursiy.pdb
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/obj/Debug/net6.0/rekursiy.csproj.AssemblyReference.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/obj/Debug/net6.0/rekursiy.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/obj/Debug/net6.0/rekursiy.AssemblyInfoInputs.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/obj/Debug/net6.0/rekursiy.AssemblyInfo.cs
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/obj/Debug/net6.0/rekursiy.csproj.CoreCompileInputs.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/obj/Debug/net6.0/rekursiy.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/obj/Debug/net6.0/ref/rekursiy.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/obj/Debug/net6.0/rekursiy.pdb
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/rekursiy/obj/Debug/net6.0/rekursiy.genruntimeconfig.cache

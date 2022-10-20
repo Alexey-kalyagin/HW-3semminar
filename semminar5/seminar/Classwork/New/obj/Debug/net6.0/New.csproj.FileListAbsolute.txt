@@ -1,0 +1,15 @@
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/bin/Debug/net6.0/New
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/bin/Debug/net6.0/New.deps.json
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/bin/Debug/net6.0/New.runtimeconfig.json
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/bin/Debug/net6.0/New.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/bin/Debug/net6.0/ref/New.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/bin/Debug/net6.0/New.pdb
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/obj/Debug/net6.0/New.csproj.AssemblyReference.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/obj/Debug/net6.0/New.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/obj/Debug/net6.0/New.AssemblyInfoInputs.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/obj/Debug/net6.0/New.AssemblyInfo.cs
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/obj/Debug/net6.0/New.csproj.CoreCompileInputs.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/obj/Debug/net6.0/New.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/obj/Debug/net6.0/ref/New.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/obj/Debug/net6.0/New.pdb
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/New/obj/Debug/net6.0/New.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/bin/Debug/net6.0/закрашивание
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/bin/Debug/net6.0/закрашивание.deps.json
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/bin/Debug/net6.0/закрашивание.runtimeconfig.json
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/bin/Debug/net6.0/закрашивание.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/bin/Debug/net6.0/ref/закрашивание.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/bin/Debug/net6.0/закрашивание.pdb
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/obj/Debug/net6.0/закрашивание.csproj.AssemblyReference.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/obj/Debug/net6.0/закрашивание.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/obj/Debug/net6.0/закрашивание.AssemblyInfoInputs.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/obj/Debug/net6.0/закрашивание.AssemblyInfo.cs
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/obj/Debug/net6.0/закрашивание.csproj.CoreCompileInputs.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/obj/Debug/net6.0/закрашивание.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/obj/Debug/net6.0/ref/закрашивание.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/obj/Debug/net6.0/закрашивание.pdb
+/home/alexey/Рабочий стол/git/semminar5/seminar/Classwork/закрашивание/obj/Debug/net6.0/закрашивание.genruntimeconfig.cache

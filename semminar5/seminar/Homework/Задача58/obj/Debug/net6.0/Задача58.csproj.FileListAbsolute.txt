@@ -1,0 +1,15 @@
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/bin/Debug/net6.0/Задача58
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/bin/Debug/net6.0/Задача58.deps.json
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/bin/Debug/net6.0/Задача58.runtimeconfig.json
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/bin/Debug/net6.0/Задача58.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/bin/Debug/net6.0/ref/Задача58.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/bin/Debug/net6.0/Задача58.pdb
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/obj/Debug/net6.0/Задача58.csproj.AssemblyReference.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/obj/Debug/net6.0/Задача58.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/obj/Debug/net6.0/Задача58.AssemblyInfoInputs.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/obj/Debug/net6.0/Задача58.AssemblyInfo.cs
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/obj/Debug/net6.0/Задача58.csproj.CoreCompileInputs.cache
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/obj/Debug/net6.0/Задача58.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/obj/Debug/net6.0/ref/Задача58.dll
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/obj/Debug/net6.0/Задача58.pdb
+/home/alexey/Рабочий стол/git/semminar5/seminar/Homework/Задача58/obj/Debug/net6.0/Задача58.genruntimeconfig.cache
