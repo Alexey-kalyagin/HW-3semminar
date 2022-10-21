@@ -19,7 +19,6 @@ def input_operation(enter):
         else:
             view.error_valye()
 
-
 def operation():
     match (model.ops):
         case '+':
