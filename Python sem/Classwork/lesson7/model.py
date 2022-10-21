@@ -10,11 +10,9 @@ total = 0
 
 def init_first():
     global first
-    global second
     first = controller.input_integer("Введите число: ")
    
 def init_second():
-    global first
     global second
     second = controller.input_integer("Введите число: ")
 
